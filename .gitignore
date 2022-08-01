@@ -129,3 +129,5 @@ dmypy.json
 .pyre/
 
 .iris.csv
+.new_iris_data.csv
+.shopping_data.csv
